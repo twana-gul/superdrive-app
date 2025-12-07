@@ -22,7 +22,7 @@
     "clsx": "^2.1.0",
     "firebase": "^10.7.1",
     "lucide-react": "^0.309.0",
-    "next": "^15.4.3",
+    "next": "^15.4.8",
     "next-themes": "^0.2.1",
     "pretty-bytes": "^6.1.1",
     "react": "^18",
